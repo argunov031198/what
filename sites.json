@@ -1,17 +1,20 @@
 [
   {
-      "page": "https://cdni.rt.com/"
+      "page": "http://tass.ru/"
   },
   {
-      "page": "https://cdnar.rt.com/"
+      "page": "http://ria.ru"
   },
   {
-      "page": "https://chtd.rt.com"
+      "page": "http://rkn.gov.ru"
   },
   {
-      "page": "https://russian.rt.com"
+      "page": "http://qiwi.com"
   },
   {
-      "page": "https://assange.rt.com"
+      "page": "http://nspk.ru"
+  }
+  {
+      "page": "http://smotrim.ru"
   }
 ]
