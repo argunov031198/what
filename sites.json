@@ -1,26 +1,5 @@
 [
   {
-      "page": "http://www.dme.ru"
-  },
-  {
-      "page": "http://tass.ru"
-  },
-  {
-      "page": "http://ria.ru"
-  },
-  {
-      "page": "http://rkn.gov.ru"
-  },
-  {
-      "page": "http://qiwi.com"
-  },
-  {
-      "page": "http://nspk.ru"
-  },
-  {
-      "page": "http://smotrim.ru"
-  },
-  {
       "page": "https://absolutbank.ru/"
   },
   {
@@ -55,5 +34,26 @@
   },
   {
       "page": "http://a0641414.xsph.ru/sites.json"
+  },
+  {
+      "page": "http://www.dme.ru"
+  },
+  {
+      "page": "http://tass.ru"
+  },
+  {
+      "page": "http://ria.ru"
+  },
+  {
+      "page": "http://rkn.gov.ru"
+  },
+  {
+      "page": "http://qiwi.com"
+  },
+  {
+      "page": "http://nspk.ru"
+  },
+  {
+      "page": "http://smotrim.ru"
   }
 ]
